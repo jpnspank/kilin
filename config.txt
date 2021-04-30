@@ -1,7 +1,7 @@
 {
-    "username": "Kilin#6722",
-    "password": "123456789a",
-    "room": "*#records0bootcamp",
+    "username": "Littleblau#0000",
+    "password": "eigentlich75",
+    "room": "vanilla 418‍",
     "community": "br",
     "premium_id": "j29c8p6p",
     "born_period": 3.00,
